@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my own webpage<br>👨🏽‍🎓 UNISA - BSC in Computing student<br>👨🏽‍💻 Aspiring Indie Developer & Freelancer
+I'm currently working on my own [webpage](https://lesetja.dev/)<br>👨🏽‍🎓 UNISA - BSC in Computing student<br>👨🏽‍💻 Aspiring Indie Developer & Freelancer
 
 
 ## 🌐 Socials:
