@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lesetjaa&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=lesetjaa&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lesetjaa)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
