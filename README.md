@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍🎓 UNISA - BSC in Computing student<br>👨🏽‍💻 Aspiring Indie Developer & Freelancer
+👨🏽‍🎓 UNISA - BSC in Computing student<br>👨🏽‍💻 Python & C++ Developer
 
 
 ## 🌐 Socials:
