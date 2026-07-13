@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍🎓 UNISA - BSC in Computing student<br>👨🏽‍💻 Python & C++ Developer
+👨🏽‍🎓 UNISA - BSC in Computing student<br>👨🏽‍💻 Python & C++ Developer<br>🎒Flutter App Developer
 
 
 ## 🌐 Socials:
